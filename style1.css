@@ -1,0 +1,30 @@
+h1{
+ color:blueviolet;
+}
+h3{
+ color:blue;
+}
+p{
+    color:gold;
+}
+html{
+    background-color: rgb(62, 127, 201);
+}
+img{
+    border: 8px solid rebeccapurple;
+}
+.ddd{
+    height: 500px;
+    width: 500px;
+}
+.ggg{
+    height: 500px;
+    width: 500px;
+}
+.vvv{
+    height: 500px;
+    width: 300px;
+}
+
+
+

@@ -1,0 +1,23 @@
+h1{
+ color:blueviolet;
+}
+h3{
+ color:blue;
+}
+p{
+    color:gold;
+}
+html{
+    background-color: rgb(62, 127, 201);
+}
+img{
+    border: 8px solid rebeccapurple;
+}
+.t1{
+    height: 600px;
+    width: 600px;
+}
+.sh1{
+    height: 900px;
+    width: 700px;
+}
